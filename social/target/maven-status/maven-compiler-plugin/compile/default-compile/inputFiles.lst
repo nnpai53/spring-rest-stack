@@ -1,0 +1,11 @@
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/social/src/main/java/us/ezdi/neeraj/crm/client/CrmServiceProvider.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/social/src/main/java/us/ezdi/neeraj/crm/client/CrmConnectionFactory.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/social/src/main/java/us/ezdi/neeraj/crm/client/CrmTemplate.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/social/src/main/java/us/ezdi/neeraj/crm/client/CrmApiAdapter.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/social/src/main/java/us/ezdi/neeraj/crm/client/meta/Link.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/social/src/main/java/us/ezdi/neeraj/crm/client/User.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/social/src/main/java/us/ezdi/neeraj/crm/client/meta/Resource.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/social/src/main/java/us/ezdi/neeraj/crm/client/Customer.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/social/src/main/java/us/ezdi/neeraj/crm/client/meta/Authority.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/social/src/main/java/us/ezdi/neeraj/crm/client/CrmOperations.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/social/src/main/java/us/ezdi/neeraj/crm/client/ProfilePhoto.java

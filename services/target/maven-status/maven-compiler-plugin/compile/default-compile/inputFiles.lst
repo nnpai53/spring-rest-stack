@@ -1,0 +1,16 @@
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/services/src/main/java/us/ezdi/neeraj/crm/services/CrmService.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/services/src/main/java/us/ezdi/neeraj/crm/services/UserProfilePhotoReadException.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/services/src/main/java/us/ezdi/neeraj/crm/services/Customer.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/services/src/main/java/us/ezdi/neeraj/crm/services/UserProfilePhotoWriteException.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/services/src/main/java/us/ezdi/neeraj/crm/services/ServiceConfiguration.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/services/src/main/java/us/ezdi/neeraj/crm/services/exceptions/CustomerNotFoundException.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/services/src/main/java/us/ezdi/neeraj/crm/services/ProfilePhoto.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/services/src/main/java/us/ezdi/neeraj/crm/services/UserException.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/services/src/main/java/us/ezdi/neeraj/crm/services/CustomerException.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/services/src/main/java/us/ezdi/neeraj/crm/services/UserRepository.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/services/src/main/java/us/ezdi/neeraj/crm/services/Application.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/services/src/main/java/us/ezdi/neeraj/crm/services/CustomerWriteException.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/services/src/main/java/us/ezdi/neeraj/crm/services/JpaCrmService.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/services/src/main/java/us/ezdi/neeraj/crm/services/CustomerRepository.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/services/src/main/java/us/ezdi/neeraj/crm/services/User.java
+/home/local/EZDI/neeraj.p/springBootApplications/spring-rest-stack/services/src/main/java/us/ezdi/neeraj/crm/services/exceptions/UserNotFoundException.java
